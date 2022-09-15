@@ -1,0 +1,14 @@
+{
+  "name": "calculator-local-server",
+  "version": "1.0.0",
+  "description": "quick calculator app with express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victoria :)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
